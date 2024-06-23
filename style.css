@@ -1,0 +1,54 @@
+.button {
+    background-color: #5ac5f093;
+    border: 2px solid blue;
+    color:black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 80px;
+    cursor: pointer;
+    box-shadow: #6e737593;
+    border-radius: 8px;
+  }
+.lol{
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.button:hover{
+  background-color: rgb(208, 115, 115);
+  border: 2px solid red;
+}
+.kekw{
+  border: 2px solid black;
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+    font-size: 16px;
+    margin: 3px 80px;
+    width: 600px;
+}
+input[type=button]{
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+}
+.lol1{
+  width: 20%;
+  margin-left: 80px;
+  float:left;
+}
+.sign{
+  text-align: center;
+}
+.kekw2{
+  border: 2px solid black;
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+    font-size: 16px;
+    margin: 3px 80px;
+    width : 300px;
+}
